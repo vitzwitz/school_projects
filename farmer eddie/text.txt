@@ -1,0 +1,15 @@
+Cow
+Goat
+Switch
+Cat
+Horse
+Mouse
+
+Turtle
+Snake
+Pig
+Rooster
+Switch
+Donkey
+Rabbit
+Fish
